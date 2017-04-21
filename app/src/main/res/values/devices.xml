@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="device_names">
+        <item>Accelerometer</item>
+        <item>Fingerprint Sensor</item>
+        <item>Gyroscope</item>
+        <item>Heart Rate Monitor</item>
+        <item>Light Sensor</item>
+        <item>Magnetometer</item>
+        <item>Pedometer</item>
+        <item>Proximity Sensor</item>
+        <item>Radiation Detector</item>
+        <item>Thermometer</item>
+    </string-array>
+
+    <string-array name="file_names">
+        <item>accelerm</item>
+        <item>fingerpr</item>
+        <item>gyroscop</item>
+        <item>heartrat</item>
+        <item>lightmtr</item>
+        <item>magnettm</item>
+        <item>pedometr</item>
+        <item>proximit</item>
+        <item>radiatin</item>
+        <item>thermome</item>
+    </string-array>
+
+</resources>
